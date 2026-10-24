@@ -18,6 +18,8 @@ body {
     padding: 150px 230px;
 }
 
+
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -191,6 +193,7 @@ p.author, .cta-heading {
 p.author {
     font-style: normal;
     font-weight: bold;
+    margin-top: 15px;
 
 }
 
