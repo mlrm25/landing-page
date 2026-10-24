@@ -30,16 +30,24 @@ Neslihan Ercan
 ### Everything I added
 
 First, I created outline/structure - a bunch of divs
+
 Copied text from reference
+
 Added flex
+
 Designed the landing page similar to the reference
+
 Embedded Roboto
+
 Downloaded images from Pexels
+
 Added my own style - color, credits etc
 
 
 
+
 div, p, a, figure, figcaption, img, etc...
+
 padding, margin, display, flex-direction, gap, flex-wrap, flex, justify-content, align-items,  border-radius, border, height, width, font-weight, font-style, font-family, etc...
 
 

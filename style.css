@@ -7,7 +7,7 @@ body {
     box-sizing: border-box;
 } */
 .header, .content, .card, .quote, .call-action, .footer {
-    padding: 100px 170px;
+    padding: 90px 170px;
 }
 
 .card {
