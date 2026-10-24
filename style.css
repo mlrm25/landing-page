@@ -10,7 +10,7 @@ body {
     padding: 100px 170px;
 }
 
-.card, {
+.card {
     padding: 130px 200px;
 }
 
@@ -77,6 +77,15 @@ Color: #E5E7EB;
 
 }
 
+.card a {
+    color: #1F2937;
+}
+
+.sub-text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
 
 .right-side img {
         width: 100%;
